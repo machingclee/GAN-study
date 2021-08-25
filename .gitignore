@@ -132,3 +132,6 @@ dmypy.json
 dataset/
 logs/
 runs/
+
+*.jpg
+*.jpeg
